@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniz7428
-- 👀 I’m interested in HTML, python and C++.
-- 🌱 I’m currently learning HTML and python.
-- 💞️ I’m looking to collaborate on a web page.
+- 👀 I’m interested in HTML, python and C#.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on a web page or an open source project.
 - 📫 How to reach me daniel.navas.junior@gmail.com
 
 <!---
