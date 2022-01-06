@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniz7428
-- 👀 I’m interested in HTML,python,A.I.
-- 🌱 I’m currently learning Machine learning (AI).
+- 👀 I’m interested in Cpp,python,GUIs.
+- 🌱 I’m currently learning Cpp.
 - 💞️ I’m looking to collaborate on an open source project.
 - 📫 How to reach me daniel.navas.junior@gmail.com
 
